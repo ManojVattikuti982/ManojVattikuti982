@@ -58,14 +58,6 @@ I'm a dedicated **MCA graduate** passionate about full-stack web development, cl
 
 ---
 
-## 📈 GitHub Contribution Graph
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/Manojvatikutti" alt="GitHub Contribution Graph" />
-</p>
-
----
-
 ## 📬 Let's Connect
 
 - 📧 Email: [manojvattikuti2000@gmail.com](mailto:manojvattikuti2000@gmail.com)  
@@ -74,4 +66,6 @@ I'm a dedicated **MCA graduate** passionate about full-stack web development, cl
 
 ---
 
-> *“Learning to write programs stretches your mind, and helps you think better, creates a way of thinking about things that I think is helpful in all domains.”* – Bill Gates
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Manojvatikutti&label=Profile%20Views&color=blueviolet&style=flat&initial=200" alt="Profile Views" />
+</p>
