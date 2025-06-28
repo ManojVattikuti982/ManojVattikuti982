@@ -1,79 +1,89 @@
-<h1 align="center">Hi there 👋, I'm Manoj V</h1>
-<h3 align="center">Full Stack Developer | Java · React Enthusiast | AI & DevOps Explorer</h3>
+<h1 align="center">👋 Hi, I'm Manoj V</h1>
+<h3 align="center">Full Stack Developer | DevOps Enthusiast | AWS Cloud Explorer</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/MCA-Graduate-blue" />
-  <img src="https://img.shields.io/badge/BCA-Graduate-lightgrey" />
-  <img src="https://img.shields.io/badge/Java-FullStack-orange" />
-  <img src="https://img.shields.io/badge/React-SpringBoot-green" />
-  <img src="https://img.shields.io/badge/DevOps-Docker%20%7C%20Ansible%20%7C%20AWS-informational" />
+  <a href="mailto:manojvattikuti2000@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/manoj982" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" /></a>
+  <a href="https://github.com/Manojvatikutti" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Manojvatikutti&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile views" />
 </p>
 
 ---
 
-## 🙋‍♂️ About Me
+## 🧑‍💻 About Me
 
-I'm a passionate **Full Stack Developer** with a strong foundation in Computer Applications, currently exploring intelligent systems and scalable web development.
+I’m a passionate **Full Stack Developer** and **MCA graduate** with hands-on experience in **cloud computing**, **DevOps**, and **web application development**. I enjoy building scalable systems and automating deployments. I love learning and contributing to open-source projects and real-world solutions.
 
-🎓 MCA – PESITM College, Shimoga (*84%*)  
-🎓 BCA – NIMS College, Davangere (*78%*)
-
-I enjoy creating impactful software, especially AI-driven or user-focused tools, and thrive in collaborative development environments.
-
----
-
-## 💼 Skills & Technologies
-
-| Category              | Technologies                                                  |
-|-----------------------|---------------------------------------------------------------|
-| **Languages**         | Java, JavaScript, HTML5, CSS3, SQL                            |
-| **Frontend**          | React.js, Tailwind CSS, HTML, CSS                             |
-| **Backend**           | Spring Boot, REST APIs, Thymeleaf                             |
-| **Database**          | MySQL, SQL                                                    |
-| **AI & Speech**       | HMM/GMM models, MLP (Speech Recognition, Audio Processing)    |
-| **DevOps & Tools**    | Git, GitHub, Docker, Ansible, AWS EC2, Postman, IntelliJ, VS Code |
-| **Concepts**          | OOP, MVC, JWT Auth, State Management, Session Handling        |
+- 🎓 MCA – PES Institute of Technology and Management, Shimoga (84%)  
+- 🎓 BCA – Nuthan Institute of Management Studies, Davangere (78%)  
+- 🌐 Cloud-first mindset with AWS services, Docker, Jenkins & Kubernetes  
+- 🔧 DevOps Automator | React UI Builder | Backend Engineer  
 
 ---
 
-## 🚀 Notable Projects
+## 🔧 Tech Stack
+
+### 🖥️ Languages
+`Java` `JavaScript` `SQL` `HTML5` `CSS3` `Shell Scripting` `Python (Basics)`
+
+### 🚀 Frameworks & Libraries
+`Spring Boot` `Hibernate` `JDBC` `React JS` `Thymeleaf`
+
+### ⚙️ Tools & DevOps
+`Git` `GitHub` `Maven` `Jenkins` `Docker` `DockerHub` `Ansible` `Terraform` `Kubernetes`
+
+### ☁️ Cloud & Deployment
+`AWS EC2` `S3` `IAM` `RDS` `Lambda` `ALB` `VPC` `CloudWatch` `Route 53`
+
+### 🧰 Platforms
+`Visual Studio Code` `IntelliJ IDEA` `Eclipse` `MySQL Workbench` `Apache Tomcat` `Nginx`
+
+### 🌐 Networking
+TCP/IP, DNS, VPNs, VLANs, Subnetting, Firewalls, IPv4/IPv6, HTTP/HTTPS
+
+---
+
+## 🚀 Projects
 
 ### 🔊 Artificial Speaker for Deaf and Dumb People
-**Tech:** Java, Spring Boot, HMM/GMM, MLP, Speech Recognition  
-> Designed an AI-based system that recognizes and amplifies murmuring or whispered speech using hybrid models. Useful for individuals with speech or hearing impairments.
+*Feb 2024 – Sep 2024 | Java, HMM, MLP, Speech Recognition*
 
-### 🎓 E-Learning Platform
-**Tech:** Spring Boot, Thymeleaf, Spring Security, MySQL  
-> Tutors upload paid/free courses. Learners register, complete, and receive certificates. Secure login system, HTTP session handling, course listings and RBAC included.
+- Translates murmuring sounds into speech to assist communication for the speech-impaired.
+- Used hybrid **HMM/MLP** models to enhance phoneme recognition and speech clarity.
+- Built a full **STT → TTS** system for real-time processing and speech output.
 
-### 🛍️ Ajio Clone – React App
-**Tech:** React.js, JavaScript, Tailwind CSS, React Router, Context API  
-> Simulated e-commerce platform with category pages (Men/Women/Kids), signup/login, dynamic cart, centralized styling (`App.css`) and full navigation system.
+### ⚙️ CI/CD Pipeline for Web Application Deployment
+*Feb 2025 – Mar 2025 | Jenkins, Docker, AWS EC2*
+
+- Developed an automated CI/CD pipeline with **Jenkins**, integrating Git and Maven.
+- Containerized apps using **Docker**, deployed on **AWS Linux EC2**.
+- Reduced manual effort by 40% and deployment time by 30%.
 
 ---
 
-## 📈 My GitHub Contribution Chart
+## 📜 Certifications
+
+- 🐍 **Programming in Python** – Udemy (2024)  
+- ☁️ **Cloud Computing** – NPTEL (2023)  
+- 🧠 **Operating Systems** – NPTEL (2023)  
+
+---
+
+## 📈 GitHub Contributions
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/ManojVattikuti982" alt="Manoj's GitHub chart" />
+  <img src="https://ghchart.rshah.org/Manojvatikutti" alt="Manoj's GitHub chart" />
 </p>
 
 ---
 
-## 📫 Connect With Me
+## 📬 Contact Me
 
-- 💼 [LinkedIn](www.linkedin.com/in/manoj982)  
-- 📧 Email: `manojvattikuti2000@gmail.com`  
-- 🌐 Portfolio: Coming Soon
+- 📧 Email: [manojvattikuti2000@gmail.com](mailto:manojvattikuti2000@gmail.com)  
+- 🔗 LinkedIn: [linkedin.com/in/manoj982](https://www.linkedin.com/in/manoj982)  
+- 💻 GitHub: [github.com/Manojvatikutti](https://github.com/Manojvatikutti)
 
 ---
-
-## 💬 Fun Fact
 
 > “Great web apps aren’t built by chance—they’re engineered through iteration, empathy, and clean architecture.”
 
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=manojv982&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
-</p>
