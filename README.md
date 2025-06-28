@@ -21,12 +21,14 @@ I'm a **motivated MCA graduate** passionate about **full-stack development**, **
 
 ## 🎓 Education
 
-- 🎓 **MCA** — PES Institute of Technology and Management, Shimoga  
-  *Feb 2023 – Aug 2024 | 84%*
+- 🧑‍🎓 **Master of Computer Applications (MCA)**  
+  PES Institute of Technology and Management, Shimoga  
+  *Feb 2023 – Aug 2024* | Score: **84%**
 
-- 🎓 **BCA** — Nutan Institute of Management Studies, Davangere  
-  *Jun 2019 – Aug 2022 | 78%*
-
+- 🎓 **Bachelor of Computer Applications (BCA)**  
+  Nuthan Institute of Management Studies, Davangere  
+  *Jun 2019 – Aug 2022* | Score: **78%**
+  
 ---
 
 ## 🛠 Technical Skills
@@ -70,6 +72,19 @@ I'm a **motivated MCA graduate** passionate about **full-stack development**, **
 
 ---
 
+### 🛍️ Ajio Clone – React E-commerce Application  
+**Feb 2025 – Apr 2025**  
+**Tech:** React.js, JavaScript, Tailwind CSS, React Router, Context API  
+> Developed a responsive and interactive e-commerce application inspired by the Ajio platform. Designed with modular components and centralized styling, it includes:  
+> - User authentication with signup/login forms  
+> - Category-based navigation (Men, Women, Kids)  
+> - Product listing with name, price, description, and images  
+> - Cart functionality with dynamic item count and removal  
+> - Routing with React Router and shared state via Context API  
+> - Stylish UI using Tailwind CSS and centralized `App.css`
+
+---
+
 ## 📜 Certifications
 
 - ✅ **Java Full Stack Development** – J Spiders *(2024–2025)*  
@@ -85,6 +100,10 @@ I'm a **motivated MCA graduate** passionate about **full-stack development**, **
 - 📧 Email: [manojvattikuti2000@gmail.com](mailto:manojvattikuti2000@gmail.com)  
 - 🔗 LinkedIn: [linkedin.com/in/manoj982](https://www.linkedin.com/in/manoj982)  
 - 💻 GitHub: [github.com/ManojVattikuti982](https://github.com/ManojVattikuti982)
+
+---
+
+> “Great web apps aren’t built by chance—they’re engineered through iteration, empathy, and clean architecture.”
 
 ---
 
