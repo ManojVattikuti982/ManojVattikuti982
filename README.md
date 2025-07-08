@@ -85,7 +85,7 @@ I'm a **motivated MCA graduate** passionate about **full-stack development**, **
 
 ---
 
-## 📜 Certifications
+## 📜 Certification
 
 - ✅ **Java Full Stack Development** – J Spiders *(2024–2025)*  
 - ✅ **DevOps with AWS** – *(2025)*  
