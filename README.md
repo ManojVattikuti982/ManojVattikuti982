@@ -100,6 +100,7 @@ I'm a **motivated MCA graduate** passionate about **full-stack development**, **
 - 📧 Email: [manojvattikuti2000@gmail.com](mailto:manojvattikuti2000@gmail.com)  
 - 🔗 LinkedIn: [linkedin.com/in/manoj982](https://www.linkedin.com/in/manoj982)  
 - 💻 GitHub: [github.com/ManojVattikuti982](https://github.com/ManojVattikuti982)
+- 🌐 Portfolio: [manojvattikuti.me](https://manojvattikuti982.github.io/portfolio/)
 
 ---
 
