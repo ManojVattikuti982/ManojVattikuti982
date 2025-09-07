@@ -1,4 +1,4 @@
- <h1 align="center">Hi 👋, I'm Manoj V</h1>
+<h1 align="center">Hi 👋, I'm Manoj V</h1>
 <h3 align="center">Aspiring Full Stack Developer | DevOps & Cloud Enthusiast | MCA Graduate</h3>
 
 <p align="center">
